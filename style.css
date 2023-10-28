@@ -1,0 +1,27 @@
+/* external style scripting*/
+
+h1{
+    color: #eb3471;
+}
+
+p{
+    color: blue;
+}
+ 
+/*for backgraoundcolor*/
+
+body{
+    background-color: rgb(0,0,0);
+}
+
+button{
+    color: black;
+    background-color: yellow;
+}
+
+h2{
+    color:chartreuse;
+}
+h2{
+    color:green;
+}
